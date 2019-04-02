@@ -1,2 +1,5 @@
 # Imreloaded-DDos
-Ddos 
+
+cd desktop
+cd imreloaded-DDos
+python depression.py http://example.com/
