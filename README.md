@@ -1,4 +1,4 @@
-# Imreloaded-DDos
+# Usage
 
 *open terminal*
 
